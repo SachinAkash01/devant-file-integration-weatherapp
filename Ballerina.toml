@@ -1,0 +1,4 @@
+[package]
+org = "rocky"
+name = "devant_file_integration"
+version = "0.1.0"
